@@ -1,4 +1,8 @@
 # EXPERIMENT-05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD
+ ### DATE: 21.08.2026
+   ### NAME: Himadri S
+   ### ROLL NO: 212225040128
+   ### DEPARTMENT: BE.CSE
 
 ## Aim: 
 
@@ -441,10 +445,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots on serial monitor   :
- 
- ![Uploading soil pic.jpeg…]()
+<img width="1280" height="1210" alt="soil pic" src="https://github.com/user-attachments/assets/ccf96924-03f9-4b2b-93fd-5f3542cc95b0" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-06 115908" src="https://github.com/user-attachments/assets/e6a28290-9a28-4e77-bf7d-d36788bccb58" />
 
- ![Uploading Screenshot 2026-08-06 115908.png…]()
 
  
 ## Result :
